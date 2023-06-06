@@ -1,0 +1,21 @@
+input_dir: EasyDoing/Resources
+output_dir: EasyDoing/Generated/SwiftGen
+
+strings:
+  - inputs: [
+      Strings/en.lproj/Localizable.strings,
+      Strings/NonLocalizable.strings
+    ]
+    outputs:
+      templateName: structured-swift5
+      output: Localizations.swift
+
+
+xcassets:
+  - inputs: [
+      Colors.xcassets,
+      Images.xcassets
+    ]
+    outputs:
+      templateName: swift5
+      output: Assets.swift

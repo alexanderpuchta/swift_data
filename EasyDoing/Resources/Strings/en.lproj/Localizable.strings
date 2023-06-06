@@ -1,0 +1,14 @@
+"create_to_do.labels.priority"="Priority of your task?";
+"create_to_do.labels.title"="New Task";
+"create_to_do.text_fields.labels.title"="What needs to be done?";
+"create_to_do.buttons.create"="Save";
+
+"to_do.buttons.done"="Finish";
+"to_do.buttons.undone"="Restart";
+"to_do.labels.title"="What needs to be done?";
+"to_do.labels.created_at"="created at";
+"to_do.labels.priorty"="Priority";
+
+"to_does.labels.empty"="Seems like no tasks are stored yet.";
+"to_does.buttons.create"="Create a new task";
+"to_does.labels.title"="What's up?";
